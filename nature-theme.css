@@ -1,0 +1,36 @@
+
+.nature-theme .header {
+    background:green;
+    color: white;
+}
+
+.nature-theme button {
+    background: darkgreen;
+    color: white;
+    border: 2px solid black;
+}
+.nature-theme h1{
+    color: black;
+}
+.nature-theme .login-box {
+    
+    border: 2px solid black;
+    background-image: url("assets/tree.jpg");
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  
+}
+
+.nature-theme h2{
+    color:black;
+}
+.nature-theme .header{
+    background-image: url("assets/tree-736885_1280.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
