@@ -1,0 +1,45 @@
+.space-theme {
+    background: rgb(73, 111, 136 );
+    color:white;
+}
+
+.space-theme .header {
+    background: rgba(18,55,91,255);
+    border: 1px solid gold;
+}
+
+.space-theme button {
+    background: rgb(172, 166, 52);
+    color: rgba(18,55,91,255);
+}
+
+.space-theme .login-box {
+    background: rgba(45, 66, 99, 0.9);
+    border: 1px solid gold;
+}
+
+.space-theme input {
+    background: rgba(236, 219, 186, 0.1);
+    border-color:darkgoldenrod;
+    color: white;
+}
+
+.space-theme .header{
+    background-image: url("assets/space-purple.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+.space-theme .header button{
+    color:red;
+}
+
+.space-theme .login-box{
+    background-image: url("assets/space.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
